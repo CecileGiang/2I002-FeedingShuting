@@ -158,7 +158,6 @@ public class Mer {
 		//On réinitialise toutes les cases de nbElemMer à 0
 		for(int i=0; i<nbElemMer.length; i++) nbElemMer[i] = 0;
 
-
 		// On compte le nombre d'instances de chaque élément dans tabMer
 		for(int i=0; i<tabMer.length; i++){
 			for(int j=0; j< tabMer[i].length; j++){
@@ -273,10 +272,12 @@ public class Mer {
 		}
 	}
 	
-	/* À  chaque changement de niveau, on rafraîchit le tableau nbMax contenant le nombre laximal d'instances de chaque élément de Mer dans le tableau de Jeu. */
+	/* À  chaque changement de niveau, on rafraîchit le tableau nbMax contenant le nombre laximal d'instances de chaque 
+	élément de Mer dans le tableau de Jeu. Les méthodes getNbMax(int niveau) sont statiques donc on n'a pas besoin de créer 
+	d'instance de Mer pour les appeler.*/
 	
 	public void updateNbMax(int niveau){
-		nbMax[0] = Nemo.getNbMax(niveau); // les méthodes getNbMax(int niveau) sont statiques donc on n'a pas besoin de créer d'instance de Mer pour les appeler.
+		nbMax[0] = Nemo.getNbMax(niveau);
 		nbMax[1] = Tuna.getNbMax(niveau);
 		nbMax[2] = WhiteShark.getNbMax(niveau);
 		nbMax[3] = BigWhale.getNbMax(niveau);
@@ -285,9 +286,7 @@ public class Mer {
 	}
 
 
-
 	public void deplacerMer(){
-
 
 		/* ---------------------DÉPLACEMENT DE SHUTING----------------------------- */
 
