@@ -1,6 +1,6 @@
 public class JeuFeedingShuting {
 	public static void main(String[] args){
-
+		
 		Mer feedingShuting = new Mer();
 
 	}
