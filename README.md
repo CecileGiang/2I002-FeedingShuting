@@ -13,10 +13,7 @@ Our game is based on the already existing game *Feeding Frenzy*, and written in 
 _Note: In order to run the program, please execute the following command on the terminal._
 
               ```ruby
-                   javac *.java && java JeuFeedingShuting_
+              require 'redcarpet'
+              markdown = Redcarpet.new("Hello World!")
+              puts markdown.to_html
               ```
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
