@@ -1,5 +1,5 @@
-## Feeding Shuting
-# Java Project (2I002)
+# Feeding Shuting
+### Java Project (2I002)
 
 
 _*Contributors*_: GIANG Cecile, ZHANG Shuting
