@@ -12,6 +12,6 @@ Our game is based on the already existing game *Feeding Frenzy*, and written in 
 
 _Note: In order to run the program, please execute the following command on the terminal._
 
-              ```
-              javac *.java && java JeuFeedingShuting_
+              ```ruby
+                   javac *.java && java JeuFeedingShuting_
               ```
