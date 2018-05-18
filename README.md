@@ -15,3 +15,8 @@ _Note: In order to run the program, please execute the following command on the 
               ```ruby
                    javac *.java && java JeuFeedingShuting_
               ```
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
