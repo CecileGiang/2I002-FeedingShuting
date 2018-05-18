@@ -1,5 +1,6 @@
 /* La classe mer regroupe toutes les entités que l'on peut retrouver dans la mer (ici: Poisson et Nourriture).
-   On choisit de la créer afin d'être capables par la suite de créer des ArrayList qui contiennent à la fois les Poissons et la Nourriture */
+   On choisit de la créer afin d'être capables par la suite de créer des ArrayList qui contiennent à la fois les Poissons 
+   et la Nourriture */
 
 public abstract class ElemMer {
 
