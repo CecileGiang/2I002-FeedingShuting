@@ -14,7 +14,7 @@ _Note: In order to run the program, please execute the following command on the 
 
 
 
-![Image of UML](/Users/zst/Downloads/UML_FeedingShuting.jpeg)
+![Image of UML](/Users/zst/Downloads/UML_FeedingShuting.jpg)
 
 
 
