@@ -14,7 +14,7 @@ _Note: In order to run the program, please execute the following command on the 
 
 
 
-![Image of UML](https://github.com/CecileGiang/FeedingShuting_JavaProject2I002/blob/master/UML_FeedingShuting.pdf)
+![Image of UML](/Users/zst/DownloadsUML_FeedingShuting)
 
 
 
