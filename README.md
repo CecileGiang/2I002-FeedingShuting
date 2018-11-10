@@ -10,7 +10,7 @@ _Note: In order to run the program, please execute the following command on the 
 ```
 
 
-##Contributors: 
+## Contributors: 
 GIANG Cecile, ZHANG Shuting
 
 
@@ -18,7 +18,7 @@ __Description:__
 
 
 
-##Project UML
+## Project UML
 
 ![Image of UML](https://github.com/CecileGiang/FeedingShuting_JavaProject2I002/blob/master/UML_FeedingShuting.jpg)
 
