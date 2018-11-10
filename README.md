@@ -12,6 +12,13 @@ Our game is based on the already existing game *Feeding Frenzy*, and written in 
 
 _Note: In order to run the program, please execute the following command on the terminal._
 
+
+
+![Image of UML](https://github.com/CecileGiang/FeedingShuting_JavaProject2I002/blob/master/UML_FeedingShuting.pdf)
+
+
+
+
 ```ruby
               javac *.java && java JeuFeedingShuting
 ```
